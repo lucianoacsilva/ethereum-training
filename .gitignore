@@ -1,1 +1,6 @@
 .vscode
+basic-training/build
+pet-shop/build
+pet-shop/node_modules
+unbox/client/node_modules
+unbox/build
